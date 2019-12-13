@@ -3,14 +3,11 @@
 
 @import "{{ site.theme }}";
 
-* {
+body {
   width: 100%;
   color: black;
 }
 
-table {
-  width: 200%;
-}
 
 th {
   color: white;
