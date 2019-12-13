@@ -3,18 +3,12 @@
 
 @import "{{ site.theme }}";
 
-.page-header {
-  height: 50%;
-}
-
 body {
   width: 100%;
   color: black;
 }
 
-
 th {
   color: white;
   background-color: black;
-  table-collapse: collapse;
 }
