@@ -1,7 +1,1 @@
-theme: jekyll-theme-cayman
-
-defaults:
-  - scope:
-      path: "https://i.ibb.co/"
-    values:
-      image: true
+theme: jekyll-theme-minima
