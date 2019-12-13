@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+head {
+  height: 50%;
+}
+
 body {
   width: 100%;
   color: black;
