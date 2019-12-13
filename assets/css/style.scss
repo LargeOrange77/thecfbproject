@@ -4,7 +4,12 @@
 @import "{{ site.theme }}";
 
 html {
-  width: 85%;
+  width: 100%;
+  color: black;
+}
+
+table {
+  width: 125%;
 }
 
 th {
