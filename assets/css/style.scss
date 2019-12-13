@@ -4,5 +4,10 @@
 @import "{{ site.theme }}";
 
 html {
-  background-color: #b1b3bc;
+  width: 85%;
+}
+
+th {
+  color: white;
+  background-color: black;
 }
